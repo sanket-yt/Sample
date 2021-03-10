@@ -1,0 +1,85 @@
+body{
+    color:green;
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    background-color: #ffcf79;
+    font-size: 25px;
+}
+.image1{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    background-color: silver;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px;
+}
+
+h1{
+        color: red; 
+        text-align: center;
+        font-size: 150%;
+        padding:3px;
+}
+h2{
+    color: #107896;
+    text-align: center; 
+    font-size: 1.2em;
+    padding:3px;
+}
+#para1homepage{
+    font-size: 25px;
+    color: darkblue;
+    padding-left: 20px;
+}
+p.paragraph{
+    font-size:20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    padding: 3px;
+    background-image: url("Rainbow.jpg");
+    border-bottom-color: red;
+    border-radius: 10px
+}
+#para4homepage{
+    font-size:20px;
+    border-color: #3D9970;
+    border-style: ridge;
+    border-width: thick;
+    padding: 3px;
+    margin-left: 400PX;
+    background-color: #e7c8d4;
+}
+#DivMain{
+    color: black;
+}
+#DivOnline{
+    color: black;
+}
+.highlight{
+    background-color: #e9ff32;
+}
+.underline
+{
+    background-color: skyblue;
+}
+h3{
+    color: #009ACD;
+    font-size: 120%;
+    padding:3px;
+}
+.DivContent{
+	color: black;
+}
+a:link{
+color:blue;
+}
+a:visited{
+color:red;
+}
+a:hover{
+color:#DB7093;
+}
